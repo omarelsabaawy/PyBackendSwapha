@@ -1,0 +1,8 @@
+bson==0.5.10 
+sentence-transformers
+scikit-learn
+transformers
+Flask
+pymongo==3.10.1 
+pandas
+Flask-Cors
